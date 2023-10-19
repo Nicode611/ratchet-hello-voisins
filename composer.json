@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "config"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "react/socket": "^1.14",
+        "react/event-loop": "^1.4",
+        "monolog/monolog": "^3.4"
+    }
+}
